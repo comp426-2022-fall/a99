@@ -1,11 +1,8 @@
-# STOP!
-
-Accept the final assignment a99 invite here: https://classroom.github.com/a/IbwBAA8J
-
-If you have done that already, then proceed.
-You MUST accept the assignment via the link above before you do ANYTHING else.
-
 # a99 Final Project
+
+## UPDATE
+
+You don't need to accept this assignment since you are already assigned to teams. So, there is not assignment invite link for a99.
 
 ## Summary 
 
