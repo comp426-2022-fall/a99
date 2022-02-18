@@ -2,7 +2,7 @@
 
 ## UPDATE
 
-You don't need to accept this assignment since you are already assigned to teams. So, there is not assignment invite link for a99.
+You don't need to accept this assignment since you are already assigned to teams. So, there is no assignment invite link for a99.
 
 ## Summary 
 
